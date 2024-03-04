@@ -1,2 +1,2 @@
-# python_project
+# python_learnings
  Python Learning Repository
